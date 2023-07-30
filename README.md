@@ -27,12 +27,12 @@ This repository contains various PHP files demonstrating different programming c
 
 Clone the repository to your local machine using the following command:
 
-git clone <repository-url>
+git clone https://github.com/SantosPaulAmiani/php.git
 
 Navigate to the repository folder on your local machine:
 
 
-cd <repository-folder>
+cd php
 
 Open any PHP file of your choice using a text editor or an integrated development environment (IDE).
 
